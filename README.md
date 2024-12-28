@@ -1,6 +1,8 @@
 Fatkul Umar
 https://id.linkedin.com/in/fatkulumar
 
+Hello, I’m Fatkul Umar, a web developer with over a year of experience. I specialize in building applications using Lumen/Laravel, Nuxt.js/Vue, Inertia.js Vue, and Tailwind CSS, with MySQL as my preferred database. I am passionate about creating efficient and user-friendly web solutions.
+
 Objective:
 Junior Web Developer with expertise in PHP (Laravel), JavaScript (Vue.js, Nuxt.js), HTML, CSS (Tailwind, Bootstrap), and proficiency in Linux (Ubuntu) seeking opportunities to contribute and grow in a dynamic web development environment.
 
