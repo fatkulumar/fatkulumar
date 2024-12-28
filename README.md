@@ -2,15 +2,7 @@ Fatkul Umar
 https://id.linkedin.com/in/fatkulumar
 
 Objective:
-Junior Web Developer with expertise in PHP (Laravel, Codeigniter3, Lumen), JavaScript (Vue.js, Nuxt.js), HTML, CSS (Tailwind, Bootstrap), and proficiency in Linux (Ubuntu) seeking opportunities to contribute and grow in a dynamic web development environment.
-
-Professional Summary:
-- Proficient in back-end web development using PHP, Laravel, and Lumen frameworks.
-- Skilled in front-end development with JavaScript, Vue.js, and Nuxt.js.
-- Experienced in responsive web design using HTML and CSS with frameworks like Tailwind and Bootstrap.
-- Familiar with Linux (Ubuntu) for web server deployment and development environments.
-- Strong problem-solving skills and ability to work collaboratively in a team.
-- Utilized Git for version control and collaborated in Agile development workflows.
+Junior Web Developer with expertise in PHP (Laravel), JavaScript (Vue.js, Nuxt.js), HTML, CSS (Tailwind, Bootstrap), and proficiency in Linux (Ubuntu) seeking opportunities to contribute and grow in a dynamic web development environment.
 
 Education:
 Bachelor's Degree in Computer Science/Information Technology
@@ -24,14 +16,13 @@ Skills:
 - Operating Systems: Linux (Ubuntu)
 - Version Control: Git
 - Database Management: MySQL
-- Web Servers: Apache, Nginx
-- Problem-Solving and Debugging
+- Web Servers: Nginx
 
 Professional Experience:
 
 Junior Web Developer
 Pateron Indonesia (PT. Pateron Edukasi Indonesia)
-January 2023 - Now
+February 2023 - Now
 
 - Collaborated with the development team to create and maintain web applications using PHP (Laravel) and JavaScript (Vue.js).
 - Developed RESTful APIs and integrated third-party services for data retrieval and processing.
@@ -49,6 +40,8 @@ August 2023 - October 2023
 - Contributed to the enhancement of the company's website's UI/UX.
 
 Projects:
+
+https://trading.pateron.id (on going)
 
 https://pengmas.binnerapps.co.id
 - Developed a full-stack e-commerce website using Laravel and Bootstap.
