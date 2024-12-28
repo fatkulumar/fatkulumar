@@ -24,7 +24,7 @@ Junior Web Developer
 Pateron Indonesia (PT. Pateron Edukasi Indonesia)
 February 2023 - Now
 
-- Collaborated with the development team to create and maintain web applications using PHP (Laravel) and JavaScript (Vue.js).
+- Collaborated with the development team to create and maintain web applications using PHP (Laravel) and JavaScript (Vue.js, framework nuxt 2).
 - Developed RESTful APIs and integrated third-party services for data retrieval and processing.
 - implemented frontend from design figma responsive user interfaces using HTML, CSS, Tailwind CSS
 - Utilized Git for version control and collaborated in Agile development workflows.
@@ -41,13 +41,14 @@ August 2023 - October 2023
 
 Projects:
 
-https://trading.pateron.id (on going)
+https://trading.pateron.id (automaic trading, on going) tech are laravel, nuxt 3, tailwind, mysql
+https://madrasah.mediapondokjatim.com ( Note down class participants ) tech laravel inertia vue 3, tailwind, mysql
 
-https://pengmas.binnerapps.co.id
+https://pengmas.binnerapps.co.id tech laravel, bootstrap, mysql
 - Developed a full-stack e-commerce website using Laravel and Bootstap.
 - Designed a responsive and user-friendly front-end with Bootstap.
 
-https://simpas.ponpesgasek.id
+https://simpas.ponpesgasek.id tech codeigniter 3, bootstrap, mysql
 - Developed a full-stack e-commerce website using Laravel and Bootstap.
 - Designed a responsive and user-friendly front-end with Bootstap.
 
